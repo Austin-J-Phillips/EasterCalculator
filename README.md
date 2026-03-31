@@ -11,7 +11,7 @@ A C# console application that calculates the date of **Easter Sunday** for any g
 ## 📸 Example Output
 
 
-
+![Easter Output](Images/easter-output.png)
 
 ---
 
@@ -108,7 +108,7 @@ EasterCalculator/
 
 ## 🔗 Repository
 
-
+https://github.com/Austin-J-Phillips/EasterCalculator
 
 ---
 

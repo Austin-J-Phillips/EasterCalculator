@@ -82,7 +82,7 @@ EasterCalculator/
 │   ├── Program.cs
 │   ├── EasterCalculator.csproj
 │
-├── images/
+├── Images/
 │   └── easter-output.png
 ```
 

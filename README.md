@@ -2,7 +2,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-ConsoleApp-blue)
 ![Language](https://img.shields.io/badge/C%23-Programming-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![Status](https://img.shields.io/badge/Status-WorkInProgress-red)
 
 A C# console application that calculates the date of **Easter Sunday** for any given year using the *Anonymous Gregorian Computus algorithm*.
 
@@ -79,7 +79,7 @@ EasterCalculator/
 │
 ├── EasterCalculator.sln
 ├── EasterCalculator/
-│   ├── Program.cs
+│   ├── EasterDate.cs
 │   ├── EasterCalculator.csproj
 │
 ├── Images/
@@ -98,11 +98,9 @@ EasterCalculator/
 
 ## 🚀 Future Improvements
 
-* [ ] Add input validation
-* [ ] Loop for multiple calculations
-* [ ] Convert to GUI (WinForms or WPF)
-* [ ] Add unit testing
-* [ ] Refactor into methods / OOP structure
+* [X] Add input validation
+* [X] Loop for multiple calculations
+* [X] Refactor into methods / OOP structure
 
 ---
 
